@@ -11,3 +11,4 @@ while True:
 	# product = [name, price]
 	products.append([name, price])
 print(products)
+
